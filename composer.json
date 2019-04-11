@@ -1,0 +1,26 @@
+{
+    "name": "zngue/zng_laravel_addons",
+    "description": "插件addons",
+    "type": "library",
+    "require": {
+        "tymon/jwt-auth": "^0.5.12",
+        "overtrue/wechat": "^4.1",
+        "dingo/api": "^2.2",
+        "zircote/swagger-php": "^3.0",
+        "alibabacloud/sdk": "^1.4",
+        "predis/predis": "^1.1",
+        "aliyuncs/oss-sdk-php": "^2.3",
+        "jaeger/querylist": "^4.1",
+        "spatie/laravel-permission": "^2.37"
+    },
+    "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zngue",
+            "email": "zngfue@163.com"
+        }
+    ]
+}
